@@ -13,4 +13,4 @@ This repo contains the following files:
 
 - [Living Paper Version 1 (Baseline Results)](https://github.com/chrjmeyer/GarmentWorkersEthiopiaCOVID19/blob/master/LivingPaper_v01_20200531.pdf)
 
-Data and program code coming soon.
+- [Survey Instrument Baseline](https://github.com/chrjmeyer/GarmentWorkersEthiopiaCOVID19/blob/master/survey_instruments/baselinesurvey_english_public.pdf)
