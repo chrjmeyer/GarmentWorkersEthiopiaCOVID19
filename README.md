@@ -14,8 +14,5 @@ This repo contains the following files:
 - Meyer, Christian Johannes ⓡ Morgan Hardy ⓡ Marc Witte ⓡ Gisella Kagy ⓡ Eyoual Demeke. 2021. “The Market-Reach of Pandemics: Evidence from Female Workers in Ethiopia’s Ready-Made Garment Industry” World Development 137: 105179.
   - [Accepted Manuscript](https://github.com/chrjmeyer/RMGWorkersEthiopiaCOVID19/blob/master/MarketReachPandemics_AcceptedManuscript_WD.pdf)
 
-- Morgan Hardy ⓡ Gisella Kagy ⓡ Eyoual Demeke  ⓡ Marc Witte ⓡ Christian Johannes Meyer. 2022. "The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry".
-   - [Draft, 3 March 2022](https://github.com/chrjmeyer/RMGWorkersEthiopiaCOVID19/blob/9add9d99cdc883cacd954b5d86c6bd6923f0309f/Downsizing_Draft_2022-03-03.pdf)
-
 - Data
   - [Survey Instrument Baseline](https://github.com/chrjmeyer/GarmentWorkersEthiopiaCOVID19/blob/master/survey_instruments/baselinesurvey_english_public.pdf)
